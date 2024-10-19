@@ -2,7 +2,7 @@ import React from "react";
 
 function FunctionClick() {
   function clickHandler() {
-    console.log("Button Clicked");
+    console.log("Button Clicked using Function component");
   }
   return (
     <div>
